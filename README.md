@@ -1,5 +1,5 @@
 # BORGAR EATS
-Open-source game made in Python and Pygame-CE
+Open-source web game made in Python and Pygame-CE
 
 Play the game at: https://walter-powerbright.itch.io/borgar-eats
 
