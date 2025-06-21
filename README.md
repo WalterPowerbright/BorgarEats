@@ -2,13 +2,13 @@
 Open-source game made in Python and Pygame-CE
 
 # REQUIREMENTS
-[ Python 3 ]
+[ Python 3 ]\n
 Version: 3.10.12
 
-[ Pygame-CE ]
+[ Pygame-CE ]\n
 Version: 2.5.3
 
-[ SDL ]
+[ SDL ]\n
 Version: 2.30.12
 
 # HOW TO PLAY
